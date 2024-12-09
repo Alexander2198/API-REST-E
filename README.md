@@ -1,6 +1,6 @@
 # "Information" project in PYTHON ARCHITECTURE API-REST
 
-This is a simple in  **PYTHON** project.The project consist in API REST with python and html html.
+This is a simple in  **PYTHON** project.The project consist in API REST with python and html.
 
 ## Requirements
 - you clone this repository git clone https://github.com/Alexander2198/API-REST-E
